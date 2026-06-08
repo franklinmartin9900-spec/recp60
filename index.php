@@ -18,7 +18,7 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 <!--End of Tawk.to Script-->
 
-    <title>FlavorNest - Discover, Cook, Share</title>
+    <title>60 FlavorNest - Discover, Cook, Share</title>
     <meta name="description" content="FlavorNest is your home for thousands of chef-crafted recipes. Discover new flavors, save your favorites, and cook something amazing today." />
     <meta name="author" content="Hercules" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
