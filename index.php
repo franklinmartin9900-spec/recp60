@@ -18,7 +18,7 @@ s0.parentNode.insertBefore(s1,s0);
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Home Chef Recipes</title>
+    <title>60 Home Chef Recipes</title>
     <meta
       name="description"
       content="Discover delicious, easy-to-follow recipes for every occasion. Browse 30+ tested recipes with step-by-step instructions, ingredients, and tips."
